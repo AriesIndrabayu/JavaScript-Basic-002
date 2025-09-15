@@ -1,0 +1,28 @@
+[
+  {
+    "nama": "Engkos",
+    "usia": 20,
+    "minat": "Coding",
+    "status": true,
+    "pekerjaan": null,
+    "hobi": ["menulis", "nonton film", "main musik"],
+    "alamat": {
+      "provinsi": "Jawa Barat",
+      "kota": "Bandung",
+      "kecamatan": "Katapang"
+    }
+  },
+  {
+    "nama": "Oded",
+    "usia": 21,
+    "minat": "Coding",
+    "status": true,
+    "pekerjaan": null,
+    "hobi": ["menulis", "nonton film", "main musik"],
+    "alamat": {
+      "provinsi": "Jawa Barat",
+      "kota": "Bandung",
+      "kecamatan": "Katapang"
+    }
+  }
+]
